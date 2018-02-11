@@ -1,0 +1,2 @@
+build:
+	bash installer.sh
